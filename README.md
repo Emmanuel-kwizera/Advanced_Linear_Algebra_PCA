@@ -20,13 +20,13 @@ A simple Python package for matrix multiplication
 To install locally:
 
 ```
-pip install alumathpeergroup14
+pip install alumathgroup14
 ```
  
 ## Usage
 
 ```
-from alumathpeergroup14 import main 
+from alumathgroup14 import main 
 
 mat_1 = [[1, 2], [3, 4]]
 mat_2 = [[5, 6], [7, 8]]
